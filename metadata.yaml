@@ -1,0 +1,45 @@
+_repo: Under-England-s-flag-b-from-1804-1809-the-memoirs-diary-and-correspondence-of-Charles-Boothy-__70149
+_version: 0.0.1
+contributor:
+  compilers:
+  - agent_name: Boothby, Cecilia Elizabeth
+    deathdate: 1925
+    gutenberg_agent_id: '55629'
+    url: http://www.gutenberg.org/2009/agents/55629
+  - agent_name: Boothby, Martha Serena
+    deathdate: 1909
+    gutenberg_agent_id: '55628'
+    url: http://www.gutenberg.org/2009/agents/55628
+creator:
+  author:
+    agent_name: Boothby, Charles
+    birthdate: 1786
+    deathdate: 1846
+    gutenberg_agent_id: '55627'
+    url: http://www.gutenberg.org/2009/agents/55627
+description: ''
+gutenberg_issued: '2023-02-26'
+identifiers:
+  gutenberg: '70149'
+language: en
+pgterms:marc905: 20150630191601boothby
+pgterms:marc906: '1900'
+pgterms:marc907: GB
+production_note: MWS, Charlie Howard, and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive/American Libraries.)
+publication_note: '  $aUnited Kingdom :$bAdam and Charles Black, $c1900.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain. Army. Royal Engineers'
+- !lcsh 'Boothby, Charles, 1786-1846'
+- !lcsh 'Boothby, Charles, 1786-1846 -- Correspondence'
+- !lcsh 'Boothby, Charles, 1786-1846 -- Diaries'
+- !lcc 'DA'
+- GITenberg
+title: "Under England's flag : $b from 1804-1809\r\nthe memoirs, diary and correspondence\
+  \ of Charles Boothy, Captain of Royal Engineers, compiled by the last survivors\
+  \ of his family"
+url: http://www.gutenberg.org/ebooks/70149
